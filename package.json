@@ -1,0 +1,30 @@
+{
+  "name": "talent-request-to_hiring_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jimmycon210/Talent-Request-to_Hiring_Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jimmycon210/Talent-Request-to_Hiring_Bot/issues"
+  },
+  "homepage": "https://github.com/Jimmycon210/Talent-Request-to_Hiring_Bot#readme",
+  "dependencies": {
+    "@polyn/blueprint": "^2.5.4",
+    "@polyn/immutable": "^1.0.10",
+    "@polyn/logger": "^0.5.1",
+    "@slack/bolt": "^2.1.1",
+    "dotenv": "^8.2.0",
+    "googleapi": "^1.0.2",
+    "googleapis": "^54.1.0",
+    "nodemon": "^2.0.4",
+    "shortid": "^2.2.15"
+  }
+}
